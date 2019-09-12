@@ -1,5 +1,6 @@
 body {
   background-color: lightblue;
+  padding : 25px
 }
 img {
   border: 2px solid black;
@@ -10,4 +11,7 @@ img {
 p2 {
     font-weight: 900;
     font-size: 200%;
+}
+p {
+    padding-left : 25px
 }
