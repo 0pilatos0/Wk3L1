@@ -1,0 +1,13 @@
+body {
+  background-color: lightblue;
+}
+img {
+  border: 2px solid black;
+  margin: 50px;
+  width : 300px;
+  float: left;
+}
+p2 {
+    font-weight: 900;
+    font-size: 200%;
+}
